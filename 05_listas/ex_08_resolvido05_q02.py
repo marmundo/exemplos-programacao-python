@@ -1,4 +1,4 @@
-# Solução modeladas para lista de listas
+# Solução modelada para lista de listas
 # [
 #      codigo,     nome, valor, dia, mes,  ano
 #     [   100, "Felipe", 99.99,  12,  12, 2022],
